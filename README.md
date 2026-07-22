@@ -35,12 +35,6 @@ The image below shows the Arduino Uno connected to four servo motors.
 
 ![Tinkercad Circuit Simulation](simulation.png)
 
-## Simulation Demo
-
-The video below shows the Tinkercad simulation of the four servo motors.  
-The motors perform a sweep motion for 2 seconds, then hold at 90 degrees.
-
-[Watch Simulation Video](simulation-video.mp4)
 
 ## Conclusion
 This project demonstrates how to control multiple servo motors using Arduino and how to stop them at a fixed angle after a specific time.
