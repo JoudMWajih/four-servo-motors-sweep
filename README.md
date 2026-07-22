@@ -28,5 +28,19 @@ This project controls four servo motors using an Arduino board. The motors perfo
 The project uses the Servo library and the `millis()` function to control the timing.  
 The variable `startTime` stores the time when the program starts, and the motors keep sweeping until 2 seconds pass.
 
+## Tinkercad Circuit Simulation
+
+The circuit was built and tested using Tinkercad.  
+The image below shows the Arduino Uno connected to four servo motors.
+
+![Tinkercad Circuit Simulation](simulation.png)
+
+## Simulation Demo
+
+The video below shows the Tinkercad simulation of the four servo motors.  
+The motors perform a sweep motion for 2 seconds, then hold at 90 degrees.
+
+[Watch Simulation Video](simulation-video.mp4)
+
 ## Conclusion
 This project demonstrates how to control multiple servo motors using Arduino and how to stop them at a fixed angle after a specific time.
